@@ -1,0 +1,10 @@
+@D:\DBS_Project\DDL.sql;
+set serveroutput on;
+@D:\DBS_Project\procedure1.sql;
+@D:\DBS_Project\procedure2.sql;
+@D:\DBS_Project\procedure3.sql;
+@D:\DBS_Project\procedure4.sql;
+@D:\DBS_Project\procedure5.sql;
+@D:\DBS_Project\procedure6.sql;
+@D:\DBS_Project\procedure7.sql;
+@D:\DBS_Project\prepopulation.sql;

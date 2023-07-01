@@ -1,0 +1,16 @@
+DROP TABLE Rent;
+DROP TABLE Property_History;
+DROP TABLE Residential;
+DROP TABLE Commercial;
+DROP TABLE Property;
+DROP TABLE User_Phonenumber;
+DROP TABLE Owner;
+DROP TABLE Tenant;
+DROP TABLE Users;
+DROP PROCEDURE InsertPropertyRecord;
+DROP PROCEDURE GetPropertyRecords;
+DROP PROCEDURE RentProperty;
+DROP PROCEDURE GetTenantDetails;
+DROP PROCEDURE CreateUser;
+DROP PROCEDURE SearchPropertyForRent;
+DROP PROCEDURE GetRentHistory;
